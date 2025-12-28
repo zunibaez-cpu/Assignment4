@@ -6,6 +6,6 @@ The first task requires creating a Git repository on GitHub
 
 View of the ITAIPU Hydroelectric Power Plant - Paraguay
 
-[My image](Images/ImageITAIPU.jpg)
+![My image](Images/ImageITAIPU.jpg)
 
 For Zunilda Baez
